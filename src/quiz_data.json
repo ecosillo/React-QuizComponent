@@ -2,15 +2,27 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
-      "answer": "7"
+      "instruction_text": "Why is the status of my purchase order showing cancelled?",
+      "answer_options": ["It did not have the required funding.", "It did not have the required approval.", "It did not have an approved requisition.", "The purchase requisition was cancelled."],
+      "answer": "The purchase requisition was cancelled."
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "Why was purchase requisition not approved?",
+      "answer_options": ["It was over the spending limit.", "The supplier is not approved.", "It was incomplete.", "The purchase requisition was cancelled."],
+      "answer": "It was incomplete."
+    },
+    {
+      "id": 3,
+      "instruction_text": "How do I cancel my purchase order?",
+      "answer_options": ["Cancel the purchase requisition.", "Change the order date.", "Send an e-mail to the support team.", "Change the status to cancelled."],
+      "answer": "Change the status to cancelled."
+    },
+    {
+      "id": 4,
+      "instruction_text": "How do I cancel my purchase requisition?",
+      "answer_options": ["Cancel the purchase order.", "Change the request date.", "Send an e-mail to the support team.", "Change the status to cancelled."],
+      "answer": "Change the status to cancelled."
     }
   ]
 }

@@ -22,8 +22,8 @@ ul {
 }
 .buttons {
   display: flex;
-  justify-content: center;
-  text-align: center;
+  justify-content: left;
+  text-align: left;
 }
 button {
   margin: 0.6em auto;
